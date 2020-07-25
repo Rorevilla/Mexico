@@ -1,2 +1,5 @@
-# population_distribution_mexico
-Visualization of the distribution of Mexican population
+
+
+### Visualizing the population distribution across Mexico's territory
+
+![](poblacion_mexico_bitmap.svg)
