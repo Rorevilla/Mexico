@@ -7,6 +7,8 @@
 
 ---
 
+
+
 ### Visualizing the number of adoptions in Mexico in 2019
 
-![](mexico_adoption_rate_2019/adoptions_mexico_2019.png)
+![](mexico_adoption_rate_2019/adoptions_mexico_2019.png.png)
